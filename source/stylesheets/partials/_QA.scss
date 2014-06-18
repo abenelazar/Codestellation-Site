@@ -1,0 +1,11 @@
+section {
+	font-family: $serif;
+	aside {
+		@include span-columns(4);
+		color: $red;
+	}
+	
+	article {
+		@include span-columns(8);
+	}
+}

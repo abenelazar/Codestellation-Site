@@ -1,0 +1,8 @@
+.main {
+	@include outer-container;
+	@include pad(20px 20px 20px 20px);
+	
+	@include media($large-screen) {
+		@include pad(40px 40px 40px 40px);
+	}
+}
