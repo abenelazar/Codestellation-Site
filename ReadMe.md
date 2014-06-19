@@ -35,3 +35,7 @@ For instance, a navigation partial will have its own structure file in `source/p
 One more thing: **do not work on the master branch**. Instead, create a local Git branch when working on a feature. This prevents nasty merge conflicts. Remember, Git branches are cheap, so don't feel shy making local branches!
 
 And of course, feel free to ask me any questions about this.
+
+## License ##
+
+Fuck if I know.
