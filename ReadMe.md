@@ -22,7 +22,7 @@ Currently, the serif typeface is [Tisa Pro](https://typekit.com/fonts/ff-tisa-we
 
 To compile the site, run the command `middleman` in any folder in the project directory. Middleman will create a server at `http://0.0.0.0:4567`.
 
-## Working on the Project ##		
+## Working on the Project		
 
 Do all your work in the `/source` directory. In order to keep this clean and organized (as well as easy to migrate to future systems, should we choose to reuse these styles for the actual sign-up system) every element in the site is treated as a partial. 
 
